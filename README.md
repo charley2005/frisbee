@@ -1,4 +1,4 @@
-# Sprite Dodge
+# glitter frisbee rush
 
 ## Description
 Sprite Dodge is an exciting browser-based game where you control a sprite (sprite1) navigating through a dynamic environment filled with obstacles represented by other sprites (sprite2). Your objective is to dodge the incoming obstacles for as long as possible to achieve the highest score. However, be cautious as colliding with any obstacle will result in an instant game over.
