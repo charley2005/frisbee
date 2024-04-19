@@ -29,12 +29,3 @@ Sprite Dodge is a browser-based game and does not require any installation. Simp
 ## Credits
 - Game developed by
 - Atie, Leon, Charley
-- Sprites and assets used in the game are sourced from [provide source]
-
-## License
-This game is released under the [provide license name]. Refer to the LICENSE file for more information.
-
-## Feedback and Support
-For feedback, bug reports, or support inquiries, please contact [provide contact information]. We appreciate your input and strive to improve the game based on user feedback.
-
-## Enjoy playing Sprite Dodge!
